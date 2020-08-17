@@ -1,4 +1,3 @@
 # Hello-world
-The first github respository.
-Now,I'm changing the branch.
+删除了所有东西，表示我已经完成。
 
